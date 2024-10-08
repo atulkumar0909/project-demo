@@ -1,2 +1,3 @@
 # project-demo
-This is my first Git Repoaitory
+This is my first Git Repoaitory.
+Athor - Atul kumar
